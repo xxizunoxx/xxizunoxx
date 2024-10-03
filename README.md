@@ -23,12 +23,12 @@
 
 </br>
 
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caiique_camargo/) ou pelo [Twitter](https://twitter.com/gui_261)
+📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caiique_camargo/) ou pelo [Twitter](https://twitter.com/Guii_261)
 
 </br>
 
 <a href="https://www.instagram.com/caiique_camargo/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/gui_261" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://twitter.com/Guii_261" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
 <a href="https://www.linkedin.com/in/caique-camargo/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
 
 ##
