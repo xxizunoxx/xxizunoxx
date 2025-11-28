@@ -34,6 +34,10 @@
 </div>
 
 </br>
+<!-- Divider -->
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
+</a>
 
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caiique_camargo/) ou pelo [Twitter](https://twitter.com/Guii_261)
 
