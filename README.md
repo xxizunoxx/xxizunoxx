@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
 <!-- Divider -->
-<a href="https://github.com/xxizunoxx/xxizunoxx/blob/main/Image/dark_cyan_purple_red_divider%20.png)" target="_blank">
+<a href="https://github.com/xxizunoxx" target="_blank">
 <img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
@@ -17,8 +17,8 @@
 
 </br>
 <!-- Divider -->
-<a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
 <div display="inline-block">
@@ -35,8 +35,8 @@
 
 </br>
 <!-- Divider -->
-<a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
 <a href="https://www.instagram.com/caiique_camargo/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
@@ -51,8 +51,8 @@
 </a> 
  
 <!-- Divider -->
-<a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
 ## 🐍 **Contributions**
