@@ -9,10 +9,6 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
-<!-- Divider -->
-<a href="https://github.com/xxizunoxx" target="_blank">
-<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
-</a>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
