@@ -1,4 +1,16 @@
+<!-- Divider -->
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
+</a>
+</br>
 # Olá, me chamo Caique Camargo!
+</br>
+<!-- Divider -->
+<a href="https://github.com/xxizunoxx" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
+</a>
+
+</br>
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
 <!-- Divider -->
@@ -34,14 +46,19 @@
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caiique_camargo/) ou pelo [Twitter](https://twitter.com/Guii_261)
 
 </br>
+
+
+<a href="https://www.instagram.com/caiique_camargo/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/Guii_261" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://www.linkedin.com/in/caique-camargo/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+</br>
 <!-- Divider -->
 <a href="https://github.com/xxizunoxx" target="_blank">
 <img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
-<a href="https://www.instagram.com/caiique_camargo/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Guii_261" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/caique-camargo/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+</br>
 
 ##
 <p align="center">
@@ -50,6 +67,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxizunoxx&layout=compact&langs_count=8&theme=algolia&count_private=true"/> 
 </a> 
  
+</br>
 <!-- Divider -->
 <a href="https://github.com/xxizunoxx" target="_blank">
 <img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
