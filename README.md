@@ -37,4 +37,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxizunoxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxizunoxx&layout=compact&langs_count=8&theme=algolia&count_private=true"/> 
 </a>  
+
+## 🐍 **Contributions**
+<div align="center">
+  <img src="https://github.com/xxizunoxx/xxizunoxx/blob/main/Snake.svg" width="1000px">
+</div>
+ 
 </p>
