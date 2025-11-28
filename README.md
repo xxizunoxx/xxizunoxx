@@ -2,8 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
 <!-- Divider -->
-<a href="https://github.com/5kr1pt" target="_blank">
-<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+<a href="https://github.com/xxizunoxx/xxizunoxx/blob/main/Image/dark_cyan_purple_red_divider%20.png)" target="_blank">
+<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
 ### 🖥️ Tecnologias e Ferramentas: 
