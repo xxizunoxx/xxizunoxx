@@ -1,16 +1,12 @@
-<!-- Divider -->
-<a href="https://github.com/xxizunoxx" target="_blank">
-<img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
-</a>
-</br>
+
 # Olá, me chamo Caique Camargo!
-</br>
+
 <!-- Divider -->
 <a href="https://github.com/xxizunoxx" target="_blank">
 <img src="Image/dark_cyan_purple_red_divider.png" alt="divider" width="100%" height="14">
 </a>
 
-</br>
+
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
 <!-- Divider -->
