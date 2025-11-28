@@ -1,6 +1,10 @@
 # Olá, me chamo Caique Camargo!
 ## Bem vindo ao meu perfil GitHub 👋
 </br>
+<!-- Divider -->
+<a href="https://github.com/5kr1pt" target="_blank">
+<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+</a>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -12,6 +16,10 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL"/></code>
 
 </br>
+<!-- Divider -->
+<a href="https://github.com/5kr1pt" target="_blank">
+<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+</a>
 
 <div display="inline-block">
  <p align="left">🔭 Atualmente trabalho como Analista de Sistemas na empresa <a href="https://santamarcelina.org">Hospital Santa Marcelina</a>;</p>
@@ -26,6 +34,10 @@
 📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/caiique_camargo/) ou pelo [Twitter](https://twitter.com/Guii_261)
 
 </br>
+<!-- Divider -->
+<a href="https://github.com/5kr1pt" target="_blank">
+<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+</a>
 
 <a href="https://www.instagram.com/caiique_camargo/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://twitter.com/Guii_261" target="_blank"><img align="left" alt="Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
@@ -36,11 +48,16 @@
 <a href="https://github.com/xxizunoxx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxizunoxx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxizunoxx&layout=compact&langs_count=8&theme=algolia&count_private=true"/> 
-</a>  
+</a> 
+ 
+<!-- Divider -->
+<a href="https://github.com/5kr1pt" target="_blank">
+<img src="images/red_to_purple_divider.png" alt="divider" width="100%" height="14">
+</a>
 
 ## 🐍 **Contributions**
 <div align="center">
-  <img src="https://github.com/xxizunoxx/xxizunoxx/blob/main/Snake.svg" width="1000px">
+  <img src="https://github.com/xxizunoxx/xxizunoxx/blob/main/SVG/Snake.svg" width="1000px">
 </div>
  
 </p>
